@@ -37,3 +37,27 @@ div li button {
   margin: 0 15px;
   background: #ca4949;
 }
+
+.removeBtn {
+  background: #7159c1;
+  color: #fff;
+  border: 0;
+  padding: 15px;
+  cursor: pointer;
+  margin-right: 10px;
+  font-weight: bold;
+  font-size: 14px;
+  float: right;
+}
+
+.addBtn {
+  background: #7159c1;
+  color: #fff;
+  border: 0;
+  padding: 10px 15px;
+  cursor: pointer;
+  margin-top: 15px;
+  margin-right: 10px;
+  font-weight: bold;
+  font-size: 14px;
+}
