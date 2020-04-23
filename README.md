@@ -5,7 +5,7 @@
 <h3 align="center">Desafio 2: Conceitos do ReactJS</h3>
 
 <p align="center">Nesse projeto foi desenvolvido o Frontend do zero utilizando <strong>Webpack, Babel, Webpack Dev Server e ReactJS
-</strong> como complemento do Desafio 1 - <a href="https://github.com/morattojr/desafio-conceitos-node">Conceitos de NodeJs (Backend)</a>.</p>
+</strong> como complemento do <a href="https://github.com/morattojr/desafio-conceitos-node">Desafio 1 - Conceitos de NodeJs (Backend)</a>.</p>
 
 ## 🚀 Tecnologias
 
