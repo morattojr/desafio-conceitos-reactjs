@@ -2,7 +2,7 @@
     <img alt="GoStack" src="https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/bootcamp-header.png" width="200px" />
 </h1>
 
-<h3 align="center">Desafio 2: Conceitos do ReactJS</h3>
+<h3 align="center">Desafio 3: Conceitos do ReactJS</h3>
 
 <p align="center">Nesse projeto foi desenvolvido o Frontend do zero utilizando <strong>Webpack, Babel, Webpack Dev Server e ReactJS
 </strong> como complemento do <a href="https://github.com/morattojr/desafio-conceitos-node">Desafio 1 - Conceitos de NodeJs (Backend)</a>.</p>
